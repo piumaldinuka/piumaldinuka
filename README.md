@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dinuka</h1>
 <h3 align="center">A passionate senior software engineer from Srilanka</h3>
 
-- 💬 Ask me about **react**
+- 💬 Ask me about * Full stack web develpment*
 
-- 📫 How to reach me **dinuka.simplebooks@gmail.com**
+- 📫 How to reach me **piumaldinukaw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
